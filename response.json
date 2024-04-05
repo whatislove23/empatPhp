@@ -1,0 +1,16 @@
+[
+  {
+    "name": "John Doe",
+    "age": 30,
+    "city": "New York",
+    "email": "john.doe@example.com",
+    "is_subscribed": true
+  },
+  {
+    "name": "Jane Smith",
+    "age": 25,
+    "city": "Los Angeles",
+    "email": "jane.smith@example.com",
+    "is_subscribed": false
+  }
+]
